@@ -2,6 +2,7 @@
   "name": "magic-mws-google",
   "version": "0.1.0",
   "private": true,
+  "main": "index.html",
   "dependencies": {
     "@magic-ext/oidc": "^1.0.1",
     "@testing-library/jest-dom": "^5.14.1",
